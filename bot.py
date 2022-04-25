@@ -15,7 +15,7 @@ from diagrams_training import check_progress_cwf
 
 ###Token inizialization
 #####3
-client = telebot.TeleBot('1896014937:AAHNjNpC_xWpChqnLqcE8dtZlzIp_welePs')
+client = telebot.TeleBot('token')
 
 ###Main menu keyboard
 main_keyboard = types.ReplyKeyboardMarkup(one_time_keyboard=True)
